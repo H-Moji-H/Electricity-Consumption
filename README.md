@@ -6,7 +6,7 @@ This project evaluates the financial and practical benefits of installing a batt
 
 
 ## Objective
-To determine whether purchasing a battery would reduce Naomi's electricity costs by storing surplus solar energy and reducing reliance on electricity purchased from the grid.
+To determine whether purchasing a battery would reduce the customer's electricity costs by storing surplus solar energy and reducing reliance on electricity purchased from the grid.
 
 ## Data and Methodology
 Dataset: Hourly electricity usage and solar electricity generation data for 2020 (excluding February 29).
