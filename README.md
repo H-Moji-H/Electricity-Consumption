@@ -1,5 +1,5 @@
 # Electricity Consumption Analysis: Project Summary
-##Overview
+## Overview
 This project analyzes household electricity consumption and solar electricity generation to evaluate the cost-effectiveness of installing a battery system. Naomi, the homeowner, generates solar electricity and currently uses it directly to meet her energy needs. Excess electricity is wasted, prompting the consideration of a battery system to store surplus power for later use. The analysis leverages real-world data from 2020 to explore potential savings from the battery installation.
 
 ## Objective
@@ -16,21 +16,21 @@ Electricity prices start at $0.17/kWh in 2022, with annual inflation rates start
 Battery cost: $7,000, with a lifetime of 20 years.
 Maximum battery storage capacity: 12.5 kWh.
 Analysis Steps
-Data Cleaning:
+## Data Cleaning:
 Handled missing data and formatted columns for consistency.
-Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 Identified patterns in electricity consumption and solar generation.
 Visualized daily and seasonal usage trends.
-Battery Simulation:
+## Battery Simulation:
 Simulated energy flow using battery storage:
 Prioritized solar electricity for immediate usage.
 Stored excess solar energy in the battery.
 Used battery power when solar generation was insufficient.
 Purchased grid electricity as a last resort.
-Cost Savings:
+## Cost Savings:
 Compared electricity costs with and without the battery over 20 years.
 Incorporated inflation to project future costs.
-Key Insights
+## Key Insights
 Solar Efficiency:
 Significant mismatch between solar generation and consumption during peak hours leads to wastage.
 Battery Impact:
@@ -39,7 +39,8 @@ Projected Savings:
 Over 20 years, the battery investment offsets initial costs, leading to significant long-term savings.
 Electricity Price Trends:
 Rising electricity prices amplify the benefits of solar energy storage.
-Conclusion
+
+## Conclusion
 Installing a battery system is a cost-effective solution for Naomi. By harnessing excess solar energy, Naomi can significantly reduce her dependency on grid electricity, mitigate the impact of rising electricity prices, and save money in the long term.
 
 Repository Contents
