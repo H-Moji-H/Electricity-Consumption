@@ -1,7 +1,7 @@
 # Electricity Consumption Analysis: Project Summary
 ## Overview
 
-This project evaluates the financial and practical benefits of installing a battery system to complement a household's existing solar electricity generation. Naomi, the homeowner, currently uses solar power directly as it is generated. Surplus energy goes unused, prompting an analysis of whether a battery system would reduce grid reliance and deliver a positive return on investment (ROI).
+This project evaluates the financial and practical benefits of installing a battery system to complement a household's existing solar electricity generation. The homeowner currently uses solar power directly as it is generated. Surplus energy goes unused, prompting an analysis of whether a battery system would reduce grid reliance and deliver a positive return on investment (ROI).
 
 
 
