@@ -50,4 +50,5 @@ Installing a battery system is a cost-effective solution for Naomi. By harnessin
   Notebook: Full analysis and visualization code in Python.
   #
   Dataset: Hourly electricity usage and solar generation data for 2020.
+  #
   Report: Comprehensive insights and results of the analysis.
