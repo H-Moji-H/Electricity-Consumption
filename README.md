@@ -31,19 +31,19 @@ Purchased grid electricity as a last resort.
 Compared electricity costs with and without the battery over 20 years.
 Incorporated inflation to project future costs.
 ## Key Insights
-Solar Efficiency:
+  ###Solar Efficiency:
 Significant mismatch between solar generation and consumption during peak hours leads to wastage.
-Battery Impact:
+  ###Battery Impact:
 Storing excess solar energy drastically reduces reliance on grid electricity.
-Projected Savings:
+  ###Projected Savings:
 Over 20 years, the battery investment offsets initial costs, leading to significant long-term savings.
-Electricity Price Trends:
+  ###Electricity Price Trends:
 Rising electricity prices amplify the benefits of solar energy storage.
 
 ## Conclusion
 Installing a battery system is a cost-effective solution for Naomi. By harnessing excess solar energy, Naomi can significantly reduce her dependency on grid electricity, mitigate the impact of rising electricity prices, and save money in the long term.
 
-Repository Contents
+###Repository Contents
 Notebook: Full analysis and visualization code in Python.
 Dataset: Hourly electricity usage and solar generation data for 2020.
 Report: Comprehensive insights and results of the analysis.
