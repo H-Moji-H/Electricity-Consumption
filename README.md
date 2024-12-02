@@ -3,6 +3,8 @@
 
 This project evaluates the financial and practical benefits of installing a battery system to complement a household's existing solar electricity generation. The homeowner currently uses solar power directly as it is generated. Surplus energy goes unused, prompting an analysis of whether a battery system would reduce grid reliance and deliver a positive return on investment (ROI).
 
+Real-world data from 2020 was analyzed using various data science techniques, including data cleaning, exploratory data analysis (EDA), and simulation modeling. These methods uncovered energy usage patterns, quantified the extent of surplus electricity, and assessed the financial viability of the battery system.
+
 
 
 ## Objective
