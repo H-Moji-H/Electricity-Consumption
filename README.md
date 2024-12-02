@@ -1,11 +1,11 @@
 # Electricity Consumption Analysis: Project Summary
-Overview
+##Overview
 This project analyzes household electricity consumption and solar electricity generation to evaluate the cost-effectiveness of installing a battery system. Naomi, the homeowner, generates solar electricity and currently uses it directly to meet her energy needs. Excess electricity is wasted, prompting the consideration of a battery system to store surplus power for later use. The analysis leverages real-world data from 2020 to explore potential savings from the battery installation.
 
-Objective
+## Objective
 To determine whether purchasing a battery would reduce Naomi's electricity costs by storing surplus solar energy and reducing reliance on electricity purchased from the grid.
 
-Data and Methodology
+## Data and Methodology
 Dataset: Hourly electricity usage and solar electricity generation data for 2020 (excluding February 29).
 Key Metrics:
 Solar electricity generation (kWh).
