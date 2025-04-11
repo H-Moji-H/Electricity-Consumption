@@ -11,14 +11,16 @@ Real-world data from 2020 was analyzed using various data science techniques, in
 To determine whether purchasing a battery would reduce the customer's electricity cost by storing surplus solar energy and reducing reliance on electricity purchased from the grid.
 
 ## Data and Methodology
-Dataset: Hourly electricity usage and solar electricity generation data for 2020 (excluding February 29).
-Key Metrics:
+### Dataset: 
+Hourly electricity usage and solar electricity generation data for 2020 (excluding February 29).
+### Key Metrics:
 Solar electricity generation (kWh).
 Household electricity usage (kWh).
 Electricity price trends with inflation.
-Assumptions:
+### Assumptions:
 Electricity prices start at $0.17/kWh in 2022, with annual inflation rates starting at 4%, increasing by 0.25% each year.
-Battery cost: $7,000, with a lifetime of 20 years.
+### Battery cost: 
+$7,000, with a lifetime of 20 years.
 Maximum battery storage capacity: 12.5 kWh.
 Analysis Steps
 ## Data Cleaning:
