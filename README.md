@@ -13,8 +13,10 @@ To determine whether purchasing a battery would reduce the customer's electricit
 ## Data and Methodology
 ### Dataset: 
 Hourly electricity usage and solar electricity generation data for 2020 (excluding February 29).
+
 ### Key Metrics:
 Solar electricity generation (kWh).
+
 Household electricity usage (kWh).
 Electricity price trends with inflation.
 ### Assumptions:
