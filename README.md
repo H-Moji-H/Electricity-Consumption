@@ -18,6 +18,7 @@ Hourly electricity usage and solar electricity generation data for 2020 (excludi
 Solar electricity generation (kWh).
 
 Household electricity usage (kWh).
+
 Electricity price trends with inflation.
 ### Assumptions:
 Electricity prices start at $0.17/kWh in 2022, with annual inflation rates starting at 4%, increasing by 0.25% each year.
