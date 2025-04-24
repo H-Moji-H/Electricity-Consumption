@@ -22,6 +22,7 @@ Household electricity usage (kWh).
 Electricity price trends with inflation.
 ### Assumptions:
 Electricity prices start at $0.17/kWh in 2022, with annual inflation rates starting at 4%, increasing by 0.25% each year.
+
 ### Battery cost: 
 $7,000, with a lifetime of 20 years.
 Maximum battery storage capacity: 12.5 kWh.(Any electricity generated beyond that threshold is considered lost, as there is no additional storage capacity.)
